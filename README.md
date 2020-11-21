@@ -1,1 +1,2 @@
-# Sangre-Shot
+# SangreShot
+Shubhs game
